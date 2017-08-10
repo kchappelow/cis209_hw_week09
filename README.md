@@ -1,4 +1,4 @@
-# Week 9 homework assignment - due 11/9/2016 7:15 p.m.
+# Week 9 homework assignment - due 11/8/2017 7:15 p.m.
 
 Problem: Count random integers
 
